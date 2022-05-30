@@ -1,0 +1,18 @@
+@import "navbar" , "galeria", "footer";
+
+svg{
+    width: 50px;
+    height: 50px;
+    color: white;
+}
+
+.btn{
+    color: white;
+    background-color: black;
+
+}
+
+.btn:hover{
+    background-color: gray;
+    transition: all 2s;
+}
