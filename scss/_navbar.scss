@@ -1,5 +1,5 @@
-$color1: #ffff;
-
-.nav-link{
-    color: $color1
+.navbar{
+    position:fixed;
+    width: 100%;
+    z-index:1000;
 }
